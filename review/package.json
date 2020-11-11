@@ -1,0 +1,13 @@
+{
+	"name": "review",
+	"version": "1.0.0",
+	"description": "",
+	"main": "http.js",
+	"scripts": {
+		"start": "node http",
+		"dev": "nodemon http"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
